@@ -1,0 +1,10 @@
+{
+  "xcodeVersion" : "Xcode 8.2.1\nBuild version 8C1002",
+  "commitish" : "1.0",
+  "iOS" : [
+    {
+      "hash" : "643765fc67cd289f52e1c5259fe7dce568d21397d986b5c6e76f40e59087b335",
+      "name" : "CarthageFramework"
+    }
+  ]
+}
